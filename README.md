@@ -2,4 +2,4 @@
 
 fixes the Third Person Camera using the same layer mask as the main camera leading to broken Cosmetics
 
-![image](https://github.com/The-Graze/ThirdPersonHatFix/assets/82724623/549a786f-c50d-4d86-8e27-e0956a602a61)
+![image](https://github.com/The-Graze/ThirdPersonHatFix/assets/82724623/c07282fa-9352-4f0d-8b26-e2c4828daebb)
