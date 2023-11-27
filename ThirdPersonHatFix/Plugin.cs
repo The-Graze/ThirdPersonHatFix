@@ -17,6 +17,8 @@ namespace ThirdPersonHatFix
 
             Camera.allCameras[1].cullingMask |= mirrorOnlyMask;
             Camera.allCameras[1].cullingMask &= ~noMirrorMask;
+
+            Destroy(this);
         }
     }
 }
